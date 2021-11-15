@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cajaye
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Javascript and Golang
+- 🌱 I’m currently learning Javascript/TypeScript
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me email cajaye,thecreator#9412 on discord
 <!---
