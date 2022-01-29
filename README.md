@@ -13,4 +13,6 @@ Svelte       31 mins         █░░░░░░░░░░░░░░░░
 JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
+<center>
 [![Cajaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cajaye)](https://github.com/Cajaye/github-readme-stats)
+</center>
