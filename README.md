@@ -3,6 +3,8 @@
   I'm interested in DevRel not sure where to start yet. Looking to collaborate on anything.
 </p>
 
+### Tools that I use to solve and make problems
+
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
