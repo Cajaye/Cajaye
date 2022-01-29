@@ -17,7 +17,7 @@
 
 ### How to reach me
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/grunglizaz)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/grunglizaz)
 
 [![Cajaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cajaye)](https://github.com/Cajaye/github-readme-stats)
 
