@@ -1,8 +1,8 @@
 <p>
-  Hi, I’m @Cajaye I do mostly Javascript/TypeScript stuff on here, I do frontend and backend web development currently diving into the world of rustlang🦀. 
-  I'm also interested in DevRel. Looking to collaborate on anything
+  Hi, I’m @Cajaye I do mostly Javascript/TypeScript stuff on here. I do frontend and backend web development currently diving into the world of rustlang🦀. 
+  I'm interested in DevRel not sure where to start yet. Looking to collaborate on anything.
 </p>
-
+### How to reach me
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/grunglizaz)
 
 [![Cajaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cajaye)](https://github.com/Cajaye/github-readme-stats)
