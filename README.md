@@ -6,10 +6,11 @@
 - [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/grunglizaz)
 <!--START_SECTION:waka-->
 ```text
-Rust         7 hrs 6 mins    ██████████████████████▒░░   89.11 % 
-Svelte       31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-TypeScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Rust         7 hrs 23 mins   ███████████████▓░░░░░░░░░   62.04 % 
+SCSS         2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+TypeScript   58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Svelte       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
 
