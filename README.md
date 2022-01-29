@@ -3,6 +3,8 @@
   I'm interested in DevRel not sure where to start yet. Looking to collaborate on anything.
 </p>
 
+[![Node JS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 ### How to reach me
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/grunglizaz)
