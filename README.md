@@ -7,6 +7,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/grunglizaz)
 
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+
 [![Cajaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cajaye)](https://github.com/Cajaye/github-readme-stats)
 
 <!--START_SECTION:waka-->
