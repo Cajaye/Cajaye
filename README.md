@@ -24,7 +24,11 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/grunglizaz)
 
+### My github stats
+
 [![Cajaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cajaye)](https://github.com/Cajaye/github-readme-stats)
+
+### What I spent my week doing
 
 <!--START_SECTION:waka-->
 ```text
