@@ -5,7 +5,7 @@
   I'm interested in DevRel not sure where to start yet. Looking to collaborate on anything.
 </p>
 
-### Tools that I use to solve and make problems!
+### Tools that I use to solve (and make problems) in the most efficient way possible!
 
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
