@@ -32,13 +32,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 20 hrs 33 mins
+Total: 20 hrs 49 mins
 
-Svelte       10 hrs 15 mins  ███████████▓░░░░░░░░░░░░░   46.46 % 
-TypeScript   8 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.46 % 
-Other        1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-JSON         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Svelte       11 hrs 18 mins  █████████████░░░░░░░░░░░░   51.74 % 
+TypeScript   8 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   39.83 % 
+Other        1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+SCSS         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
 
