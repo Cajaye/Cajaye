@@ -31,11 +31,16 @@
 ### What I spent my week doing
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   1 hr 46 mins    ██████████████████░░░░░░░   72.20 % 
-Other        33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.96 % 
-Svelte       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+TypeScript   1 hr 37 mins    ████████████████████░░░░░   80.64 %
+Svelte       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Bash         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
+
 <!--END_SECTION:waka-->
 
 
