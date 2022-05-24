@@ -33,9 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go       1 hr            ██████████████████▒░░░░░░   72.70 %
-Svelte   22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
