@@ -33,7 +33,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         0 secs          █████████████▒░░░░░░░░░░░   53.05 %
+TypeScript   0 secs          ███████████▓░░░░░░░░░░░░░   46.95 %
 ```
 
 <!--END_SECTION:waka-->
