@@ -1,8 +1,7 @@
 ## Hello
 
 <p>
-  Hi, I’m @Cajaye I do mostly Javascript/TypeScript stuff on here. I do frontend and backend web development currently diving into the world of rustlang🦀. 
-  I'm interested in DevRel not sure where to start yet. Looking to collaborate on anything.
+  Hi, I’m @Cajaye I do mostly Javascript/TypeScript stuff on here. I do frontend and backend web development.Looking to collaborate on anything.
 </p>
 
 ### Tools that I use to solve (and make problems) in the most efficient way possible!
